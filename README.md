@@ -2,7 +2,7 @@
 
 1. Скачать VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
-2. Скачать Ubuntu: https://ubuntu.com/download/desktop/thank-you?version=21.10
+2. Скачать Ubuntu: https://ubuntu.com/download/desktop/thank-you?version=21.10&architecture=amd64
 
 3. Установить VirtualBox (там не сложно)
 
